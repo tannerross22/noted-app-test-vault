@@ -16,6 +16,10 @@ attempt to sync again for any change in behavior.....
 
 <br />
 
+How long this time. What if I keep typing, does the sync ever show up if what I do is endless. OOh apparently so. 
+
+<br />
+
 
 
 
