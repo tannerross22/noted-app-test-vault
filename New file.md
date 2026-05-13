@@ -6,7 +6,7 @@ Testing but no sync button appearing
 
 <br />
 
-<br />
+Sync 
 
 <br />
 
@@ -20,11 +20,7 @@ Testing but no sync button appearing
 
 <br />
 
+<br />
 
-
-
-
-
-
-
+<br />
 
