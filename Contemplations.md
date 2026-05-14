@@ -12,9 +12,13 @@ In this study, we will confront the such issues as regarding:
 
 That is the question
 
-Contemplations changed, let's try syncing this thing. 
+Contemplations changed, let's try syncing this thing.
 
 <br />
+
+<br />
+
+Locally I have added files to a new md folder and 
 
 <br />
 
