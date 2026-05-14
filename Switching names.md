@@ -11,3 +11,7 @@ Attempting sync again, push before pull
 <br />
 
 Let's see how long it takes for sync to appear
+
+<br />
+
+Changing the one with nothing in it, will it 
