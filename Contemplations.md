@@ -18,7 +18,9 @@ Contemplations changed, let's try syncing this thing.
 
 <br />
 
-Locally I have added files to a new md folder and 
+Locally I have added files to a new md folder and now we are going to try to sync with unrelated history
+
+<br />
 
 <br />
 
