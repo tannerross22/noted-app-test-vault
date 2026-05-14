@@ -6,7 +6,4 @@ This man is THE man
 
 <br />
 
-typerr.
-
-<br />
-
+Tuypeer ohtos ois a typerit seems to instantly sync
